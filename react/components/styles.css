@@ -288,6 +288,13 @@
     display: inline-block;
     font-size: 15px;
   }
+  .cta__itemBig:hover {
+    border: 1px solid yellow;
+    background-color:white;
+    color: black;
+    padding: 5px 10px;
+  }
+
 
   .cta__itemSmall {
     background-color: yellow;
@@ -298,6 +305,12 @@
     text-decoration: none;
     display: inline-block;
     font-size: 15px;
+  }
+  .cta__itemSmall:hover {
+    border: 1px solid yellow;
+    background-color:white;
+    color: black;
+    padding: 5px 10px;
   }
 
   .name__itemBig {
@@ -519,16 +532,28 @@
     display: inline-block;
     font-size: 15px;
   }
+  .cta__itemBig:hover {
+    border: 1px solid yellow;
+    background-color:white;
+    color: black;
+    padding: 5px 10px;
+  }
 
   .cta__itemSmall {
     background-color: yellow;
     border-radius: 10px;
-    color: bla;
+    color: black;
     padding: 7px 14px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 15px;
+  }
+  .cta__itemSmall:hover {
+    border: 1px solid yellow;
+    background-color:white;
+    color: black;
+    padding: 5px 10px;
   }
 
   .name__itemBig {
