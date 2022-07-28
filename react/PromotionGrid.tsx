@@ -1,3 +1,3 @@
-import { PromotionGrid } from "./components/PromotionGrid";
+import PromotionGrid from "./components/PromotionGrid"
 
 export default PromotionGrid
